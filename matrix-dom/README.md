@@ -1,6 +1,6 @@
-# Svelte Matrix
+# Matrix DOM
 
-A Svelte implementation of the ["Matrix digital rain"](https://en.wikipedia.org/wiki/Matrix_digital_rain) effect.
+A Svelte implementation of the ["Matrix digital rain"](https://en.wikipedia.org/wiki/Matrix_digital_rain) effect, using DOM for rendering.
 
 ![Screenshot](https://github.com/bcairns/svelte-matrix/raw/main/screenshot.png)
 
