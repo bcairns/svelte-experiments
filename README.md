@@ -11,3 +11,7 @@ Some things I have been messing with to help me learn more about [Svelte](https:
 - Matrix DOM - Raining Matrix letters, barebones DOM implementation
 - Matrix Canvas - Raining Matrix letters, barebones &lt;canvas&gt; implementation
 - Matrix Reloaded - Unholy combination of the previous two with a sweet control panel bolted on
+
+### Demos
+
+- [Matrix Reloaded](https://bcairns.github.io/svelte-experiments/demos/matrix-reloaded/)
