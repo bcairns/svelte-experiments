@@ -33,7 +33,9 @@ Canvas mode is still new and a bit "experimental", definitely some issues when a
 
 ### Other
 
-`npm run build` for a production build.  Currently compiles to just 7107 bytes of JS! :smiling_face_with_three_hearts:
+`npm run build` for a production build.
+
+Uses the [vanilla-picker](https://vanilla-picker.js.org/) JS library.
 
 ---
 
