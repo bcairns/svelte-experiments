@@ -2,7 +2,7 @@
 
 A Svelte implementation of the ["Matrix digital rain"](https://en.wikipedia.org/wiki/Matrix_digital_rain) effect, with a control panel and both DOM/canvas based rendering available.
 
-![Screenshot](https://github.com/bcairns/svelte-matrix/raw/main/screenshot.png)
+![Screenshot](https://github.com/bcairns/svelte-experiments/raw/main/matrix-reloaded/screenshot.png)
 
 ---
 
