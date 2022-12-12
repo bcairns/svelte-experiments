@@ -15,3 +15,6 @@ Some things I have been messing with to help me learn more about [Svelte](https:
 ### Demos
 
 - [Matrix Reloaded](https://bcairns.github.io/svelte-experiments/demos/matrix-reloaded/)
+- [Cube](https://bcairns.github.io/svelte-experiments/demos/cube/)
+- [Game of Life (DOM)](https://bcairns.github.io/svelte-experiments/demos/game-of-life-dom/)
+- [Game of Life (Canvas)](https://bcairns.github.io/svelte-experiments/demos/game-of-life-canvas/)
